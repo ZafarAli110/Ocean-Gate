@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.5</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>35</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>main</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>glass_parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>100</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>D:/WOW Slider/templates/backgnd/transparent/</ImageTemplate>
+            <ImageTemplateName>Transparent</ImageTemplateName>
+            <ImageWidth>996</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>D:/APTECH/final O G/e-project final O.G/home pics/wow.html</PublishFileName>
+            <PublishIndex>wow.html</PublishIndex>
+            <PublishPath>D:/APTECH/final O G/e-project final O.G/home pics</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>true</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>36</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#bdafff</TemplateColor>
+            <TemplateFont>Anton</TemplateFont>
+            <TemplateName>transparent</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/images 1.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>106567</filesize>
+            </Image>
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/images.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>79830</filesize>
+            </Image>
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/sd 1.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>91403</filesize>
+            </Image>
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/sony usb 1.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>109534</filesize>
+            </Image>
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/sony usb 2.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>98044</filesize>
+            </Image>
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/usb 1.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>137259</filesize>
+            </Image>
+            <Image>
+                <url>D:/APTECH/final O G/e-project final O.G/home pics/editable/hd images/usb 2.jpg</url>
+                <title>OCEAN GATE</title>
+                <filesize>107825</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
